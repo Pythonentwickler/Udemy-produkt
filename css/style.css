@@ -1,0 +1,26 @@
+body{
+    background-color: #181818;
+    color: aliceblue;
+}
+
+.myborder{
+    --bs-border-opacity: .5 !important;
+}
+
+.myfont{
+    font-size: 4.5rem;
+}
+
+.img-fluid {
+    max-width: 106%;
+    height: 105%;
+}
+
+.feauter-icon{
+    width: 80px;
+    height: 80px;
+}
+.feature-card:hover{
+    border: 2px solid #198754 !important;
+    text-align: center;
+}
